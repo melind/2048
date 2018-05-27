@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #3c0e0a;
+}
+.container {
+  position: relative;
+  top: -30px;
+}
+.barre {
+  margin-left: 30%;
+  color: #f5e696;
+  position: relative;
+}
+.score {
+  position: absolute;
+  font-size: 20px;
+  color: #f5e696;
+  left: 3%;
+  top: 110%;
+}
+#score {
+  position: absolute;
+  font-size: 20px;
+  left: 10%;
+  top: 110%;
+}
+.canvasbox {
+  margin-left: 30%;
+  margin-top: -1%;
+  position: relative;
+}
+#canvas {
+  background-color: #fac75a;
+}
